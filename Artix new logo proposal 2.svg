@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="299mm"
+   height="299mm"
+   viewBox="0 0 299 299"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)"
+   sodipodi:docname="Artix new logo proposal 2.svg"
+   inkscape:export-filename="E:\Projects\Artix Linux logo\ass.png"
+   inkscape:export-xdpi="84.949837"
+   inkscape:export-ydpi="84.949837">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.33413791"
+     inkscape:cx="704.57344"
+     inkscape:cy="672.84977"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:pagecheckerboard="true"
+     inkscape:showpageshadow="false"
+     inkscape:window-width="1280"
+     inkscape:window-height="984"
+     inkscape:window-x="-4"
+     inkscape:window-y="17"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,2)">
+    <path
+       style="fill:#58a7c1;fill-opacity:1;stroke:none;stroke-width:0.26340708px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 84.296792,115.09746 H 101.29081 L 37.367277,276.90831 H 18.765795 Z"
+       id="path828"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       style="fill:#c1a758;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 122.0545,80.032357 138.46116,79.84232 75.29664,242.1775 57.268174,242.38086 Z"
+       id="path828-8"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       style="fill:#c15873;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 157.53245,46.676093 16.40286,-0.460092 -61.26537,163.061409 -18.024411,0.49234 z"
+       id="path828-8-0"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       style="fill:#5d8180;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 189.8382,21.033572 27.40615,0.255366 65.71521,201.860082 -20.1979,-0.16296 c 0,0 -36.24614,-90.54399 -44.85894,-105.88929 -7.22059,-12.86483 -26.69829,-10.19666 -34.02426,1.33921 -14.09743,21.04078 -22.04484,41.3999 -31.29706,65.40165 l -24.75203,0.62547 z"
+       id="path828-8-0-1"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccscccc" />
+  </g>
+</svg>
