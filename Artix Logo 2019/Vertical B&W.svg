@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="101.73949mm"
+   height="114.32481mm"
+   viewBox="0 0 101.73948 114.32481"
+   version="1.1"
+   id="svg879"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   sodipodi:docname="Vertical B&amp;W.svg">
+  <title
+     id="title1672">Artix Logo Vertical B&amp;W</title>
+  <defs
+     id="defs873" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.3691698"
+     inkscape:cx="-36.19586"
+     inkscape:cy="206.73853"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:snap-page="true"
+     inkscape:snap-bbox="true"
+     inkscape:bbox-paths="false"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:snap-object-midpoints="true"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:snap-intersection-paths="true"
+     inkscape:object-paths="false"
+     inkscape:snap-smooth-nodes="true" />
+  <metadata
+     id="metadata876">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Artix Logo Vertical B&amp;W</dc:title>
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/by-nc-sa/4.0/" />
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/by-nc-sa/4.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Notice" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Attribution" />
+        <cc:prohibits
+           rdf:resource="http://creativecommons.org/ns#CommercialUse" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.63888931px;line-height:1.25;font-family:'Bai Jamjuree';-inkscape-font-specification:'Bai Jamjuree';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.99999994"
+       d="m 192.94141,88.298828 -30.36719,62.263672 83.57422,46.82617 z m -39.54102,81.074222 -46.58984,95.52539 138.24804,-57.11524 z m 101.88086,46.74218 -43.60156,25.03125 67.39453,23.75196 z m -24.50781,63.85157 c -1.75756,0 -3.1848,0.548 -4.28321,1.64648 -1.09848,1.09845 -1.64648,2.52565 -1.64648,4.2832 0,1.75748 0.548,3.18473 1.64648,4.28321 1.09841,1.09848 2.52566,1.64844 4.28321,1.64843 1.75748,0 3.18866,-0.54999 4.28711,-1.64843 1.09852,-1.09848 1.64843,-2.52573 1.64843,-4.28321 0,-1.75755 -0.54999,-3.18475 -1.64843,-4.2832 -1.09845,-1.09848 -2.52963,-1.64648 -4.28711,-1.64648 z m -42.70703,3.51367 v 43.39844 c 0,5.71203 1.24254,9.8109 3.73242,12.30078 2.56301,2.48984 6.73826,3.73633 12.52344,3.73633 h 5.93164 v -7.03125 h -5.93164 c -3.00242,0 -5.16037,-0.69458 -6.47852,-2.08594 -1.24493,-1.3914 -2.0712,-3.70407 -1.86914,-6.91992 v -19.78125 h 14.2793 v -7.03125 h -14.2793 v -16.58594 z m -90.716801,15.70898 v 6.91993 H 116.9707 c 3.14892,0 5.67412,0.98758 7.57813,2.96484 1.90397,1.90397 2.85742,4.39308 2.85742,7.46875 v 0.66601 c -1.8308,-1.24497 -4.02481,-2.2306 -6.58789,-2.96289 -2.56305,-0.73228 -5.05801,-1.09961 -7.47461,-1.09961 h -7.02734 c -5.41909,0 -9.776896,1.38909 -13.072269,4.17188 -3.295367,2.78275 -4.94336,6.48079 -4.94336,11.13086 0,4.65025 1.575734,8.38912 4.72461,11.17187 3.222198,2.78276 7.503809,4.17383 12.849609,4.17383 h 6.5918 c 2.9292,0 5.75139,-0.7707 8.46093,-2.30859 2.78275,-1.53789 5.01296,-3.62535 6.69727,-6.26172 v 7.69141 h 7.47266 v -26.37305 c 0,-5.19935 -1.68611,-9.37257 -5.05469,-12.52149 -3.29537,-3.22212 -7.65321,-4.83203 -13.07227,-4.83203 z m 53.853511,0.87696 v 42.84961 h 7.90821 v -19.5586 c 0,-4.90651 1.42916,-8.8286 4.28515,-11.75781 2.92918,-3.0025 6.73703,-4.50195 11.42383,-4.50195 v -7.03125 c -3.22216,0 -6.33344,0.80495 -9.33593,2.41601 -2.92914,1.6111 -5.1272,3.70062 -6.5918,6.26367 v -8.67968 z m 75.61719,0 v 42.84961 h 7.90821 v -42.84961 z m 20.84571,0 18.99609,21.42578 -18.99609,21.42383 h 10.56836 l 13.71093,-15.4668 13.71289,15.4668 h 10.56836 l -18.99414,-21.42383 18.99414,-21.42578 H 285.6582 l -13.71289,15.46679 -13.71093,-15.46679 z m -141.34961,20 h 7.02734 c 2.70954,0 5.34902,0.43962 7.91211,1.31836 2.63629,0.80556 4.68575,1.90161 6.15039,3.29296 v 0.55079 c -0.95202,3.51503 -2.78268,6.33722 -5.49219,8.46093 -2.70954,2.12368 -5.78278,3.1836 -9.22461,3.1836 H 105.875 c -2.92921,0 -5.26983,-0.76684 -7.027344,-2.30469 -1.757518,-1.53785 -2.636718,-3.5926 -2.636718,-6.11914 0,-2.52643 0.915332,-4.5384 2.746093,-6.07617 1.904009,-1.53793 4.356879,-2.30664 7.359379,-2.30664 z"
+       transform="scale(0.26458333)"
+       id="path1153-2"
+       inkscape:connector-curvature="0" />
+  </g>
+</svg>
