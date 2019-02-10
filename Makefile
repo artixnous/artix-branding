@@ -1,10 +1,11 @@
-Version=0.7
+Version=0.8
 
 PREFIX = /usr/local
 
 ICONS = \
 	$(wildcard icons/*.svg) \
-	$(wildcard icons/*.png)
+	$(wildcard icons/*.png) \
+	$(wildcard Artix_Logo_2019/*.svg)
 
 BACKGROUNDS = \
 	$(wildcard backgrounds/*.jpg) \
@@ -18,18 +19,6 @@ install_backgrounds:
 	install -dm0755 $(DESTDIR)$(PREFIX)/share/backgrounds
 	install -m0755 ${BACKGROUNDS} $(DESTDIR)$(PREFIX)/share/backgrounds
 
-uninstall_icons:
-	for f in ${ICONS}; do rm -f $(DESTDIR)$(PREFIX)/share/icons/artix/$$f; done
-
-uninstall_backgrounds:
-	for f in ${BACKGROUNDS}; do rm -f $(DESTDIR)$(PREFIX)/share/backgrounds/$$f; done
-
 install: install_icons install_backgrounds
 
-uninstall: uninstall_icons uninstall_backgrounds
-
-dist:
-	git archive --format=tar --prefix=artwork-$(Version)/ $(Version) | gzip -9 > artwork-$(Version).tar.gz
-	gpg --detach-sign --use-agent artwork-$(Version).tar.gz
-
-.PHONY: install uninstall dist
+.PHONY: install
