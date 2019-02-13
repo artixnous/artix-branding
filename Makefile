@@ -5,7 +5,7 @@ PREFIX = /usr/local
 ICONS = \
 	$(wildcard icons/*.svg) \
 	$(wildcard icons/*.png) \
-	$(wildcard Artix_Logo_2019/*.svg)
+	$(wildcard logo/*.svg)
 
 BACKGROUNDS = \
 	$(wildcard backgrounds/*.jpg) \
