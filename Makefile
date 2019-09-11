@@ -17,6 +17,7 @@ install_icons:
 install_backgrounds:
 	install -dm0755 $(DESTDIR)$(PREFIX)/share/backgrounds
 	install -m0755 ${BACKGROUNDS} $(DESTDIR)$(PREFIX)/share/backgrounds
+	install -m0755 backgrounds/artix.xml $(DESTDIR)$(PREFIX)/share/gnome-background-properties
 
 install: install_icons install_backgrounds
 

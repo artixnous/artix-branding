@@ -1,0 +1,75 @@
+<?xml version="1.0"?>
+<!DOCTYPE wallpapers SYSTEM "gnome-wp-list.dtd">
+<wallpapers>
+
+<wallpaper deleted="false">
+    <name>Artix Linux</name>
+    <filename>/usr/share/backgrounds/Artix_dna_spiral_dark.jpg</filename>
+    <options>zoom</options>
+    <shade_type>solid</shade_type>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <artist> </artist>
+</wallpaper>
+
+<wallpaper deleted="false">
+    <name>Artix Linux</name>
+    <filename>/usr/share/backgrounds/Artix_eko.jpg</filename>
+    <options>zoom</options>
+    <shade_type>solid</shade_type>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <artist>Eko</artist>
+</wallpaper>
+
+<wallpaper deleted="false">
+    <name>Artix Linux</name>
+    <filename>/usr/share/backgrounds/GradientGlowBlue.jpg</filename>
+    <options>zoom</options>
+    <shade_type>solid</shade_type>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <artist> </artist>
+</wallpaper>
+
+<wallpaper deleted="false">
+    <name>Artix Linux</name>
+    <filename>/usr/share/backgrounds/space1080p.jpg</filename>
+    <options>zoom</options>
+    <shade_type>solid</shade_type>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <artist> </artist>
+</wallpaper>
+
+<wallpaper deleted="false">
+    <name>Artix Linux</name>
+    <filename>/usr/share/backgrounds/space1440p.jpg</filename>
+    <options>zoom</options>
+    <shade_type>solid</shade_type>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <artist> </artist>
+</wallpaper>
+
+<wallpaper deleted="false">
+    <name>Artix Linux</name>
+    <filename>/usr/share/backgrounds/TwoTone1080p.jpg</filename>
+    <options>zoom</options>
+    <shade_type>solid</shade_type>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <artist> </artist>
+</wallpaper>
+
+<wallpaper deleted="false">
+    <name>Artix Linux</name>
+    <filename>/usr/share/backgrounds/TwoTone1440p.jpg</filename>
+    <options>zoom</options>
+    <shade_type>solid</shade_type>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <artist> </artist>
+</wallpaper>
+
+</wallpapers>
