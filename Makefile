@@ -1,4 +1,4 @@
-Version=0.8
+Version=0.8.6
 
 PREFIX = /usr/local
 
@@ -16,7 +16,7 @@ install_icons:
 
 install_logo:
 	install -dm0755 $(DESTDIR)$(PREFIX)/share/icons/hicolor/scalable/apps
-	install -m0644 icons/logo.svg $(DESTDIR)$(PREFIX)/share/icons/hicolor/scalable/apps/artixlinux-logo
+	install -m0644 icons/logo.svg $(DESTDIR)$(PREFIX)/share/icons/hicolor/scalable/apps/artixlinux-logo.svg
 
 install_backgrounds:
 	install -dm0755 $(DESTDIR)$(PREFIX)/share/backgrounds
